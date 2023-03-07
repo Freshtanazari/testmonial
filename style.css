@@ -110,7 +110,7 @@ img {
         grid-area: c;
         width:auto;
         height:auto;
-        overflow-y: scroll;
+        overflow-y: hidden;
         padding: 20px ;
     }
     .box {
